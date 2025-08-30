@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diego Latouche</h1>
 <h3 align="center">Full-stack developer passionate about building scalable web applications.</h3>
 
-<h2>About Me<h2>
+### About Me
 
-<p>
 Full Stack Software Developer with 2+ years of professional experience building full-stack applications. I've spent the last couple of years building everything from financial platforms to e-commerce, and I'm always excited about the next challenge. Currently expanding on microservices and scalable web applications mainly with **Typescript**. I've built and shipped applications ranging from financial platforms to educational tools, always focusing on creating solutions that actually solve real problems.
-<p/>
+
 - 🚀 Currently working on [microservices architecture and AI integration](amuletcoin.vercel.app)
 
 - 🌱 I’m currently learning...
@@ -66,7 +65,7 @@ Full Stack Software Developer with 2+ years of professional experience building 
   </a>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Tools & Platforms</h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -74,10 +73,6 @@ Full Stack Software Developer with 2+ years of professional experience building 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-</p>
-
-<h3 align="left">Tools & Platforms</h3>
-<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -90,11 +85,7 @@ Full Stack Software Developer with 2+ years of professional experience building 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-</p>
-
-<h3 align="left">Design & Testing</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
