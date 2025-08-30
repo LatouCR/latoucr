@@ -3,8 +3,9 @@
 
 <h2>About Me<h2>
 
+<p>
 Full Stack Software Developer with 2+ years of professional experience building full-stack applications. I've spent the last couple of years building everything from financial platforms to e-commerce, and I'm always excited about the next challenge. Currently expanding on microservices and scalable web applications mainly with **Typescript**. I've built and shipped applications ranging from financial platforms to educational tools, always focusing on creating solutions that actually solve real problems.
-
+<p/>
 - 🚀 Currently working on [microservices architecture and AI integration](amuletcoin.vercel.app)
 
 - 🌱 I’m currently learning...
