@@ -10,7 +10,7 @@ Full Stack Software Developer with 2+ years of professional experience building 
 - 🌱 I’m currently learning...
 
   - Golang
-  - Javascript
+  - Java
 
 - 📫 Reach me at **latoudiego@gmail.com**
 
