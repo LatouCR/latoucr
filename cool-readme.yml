@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: LatouCR
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: cyan
+  background: none
