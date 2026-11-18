@@ -7,3 +7,10 @@ look:
   style: classic
   color: cyan
   background: none
+show: [summary, languages, about, repos]
+cards:
+  about:
+    headline: "H:"
+    lines:
+      - "I'm a Computer Systems Engineer passionate about building scalable software, designing backend systems, and exploring cloud infrastructure."
+      - "I'm a Computer Systems Engineer passionate about building scalable software, designing backend systems, and exploring cloud infrastructure."
