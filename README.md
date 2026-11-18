@@ -17,12 +17,12 @@
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/about-light.svg" width="400" alt="About">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/LatouCR/LatouCR/cards/repos-light.svg" width="400" alt="Top repos">
 </picture>
 </p>
 <!-- cool-readme:end -->
