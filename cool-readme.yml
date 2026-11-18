@@ -10,7 +10,7 @@ look:
 show: [summary, languages, about, repos]
 cards:
   about:
-    headline: "H:"
+    headline: "Hi, I'm *Diego*"
     lines:
       - "I'm a Computer Systems Engineer passionate about building scalable software, designing backend systems, and exploring cloud infrastructure."
-      - "I'm a Computer Systems Engineer passionate about building scalable software, designing backend systems, and exploring cloud infrastructure."
+      - "I enjoy experimenting with homelab environments, building self-hosted services, exploring networking technologies, and working on personal projects that challenge me to learn something new."
